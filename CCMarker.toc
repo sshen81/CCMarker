@@ -1,0 +1,11 @@
+﻿## Interface: 40000
+## Author: sshen81
+## Title: CCMarker
+## Version: v1.4
+## Notes: Automatically marks targets according to party's crowd control abilities
+## DefaultState: enabled
+## Dependencies:
+## SavedVariables: CCMarker
+
+CCMarker.lua
+CCMarker.xml
